@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1623184742 source:c:\users\user\desktop\utn\tsp segundo cuatrimestre\lab 1\funciones\porject2\mathrixv01\main.cpp
-	<iostream>
-	<ctime>
-	<cstdlib>
-	"cargar_matriz.h"
-
-1623184742 c:\users\user\desktop\utn\tsp segundo cuatrimestre\lab 1\funciones\porject2\mathrixv01\cargar_matriz.h
-
