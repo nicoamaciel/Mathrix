@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1624401618 source:c:\users\user\desktop\utn\tsp segundo cuatrimestre\lab 1\funciones\project1\mathrix\funciones.cpp
+	<iostream>
+	"funciones.h"
+
+1624401618 c:\users\user\desktop\utn\tsp segundo cuatrimestre\lab 1\funciones\project1\mathrix\funciones.h
+
+1624401389 source:c:\users\user\desktop\utn\tsp segundo cuatrimestre\lab 1\funciones\project1\mathrix\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	"rlutil.h"
+	"funciones.h"
+
+1571584339 c:\users\user\desktop\utn\tsp segundo cuatrimestre\lab 1\funciones\project1\mathrix\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
